@@ -1,5 +1,4 @@
 # Helix Jump
-
-Я просто решил создать __helix jump__ на выходных по этому тутору в образовательных целях
+Create __helix jump__ using this tutorial
 
 __[Create Helix Jump - Unity Game Tutorial](https://youtu.be/fP8LSNArapg)__
