@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 367dd96ebf04d944abdba46cdf396789, type: 3}
+  m_Name: 0
+  m_EditorClassIdentifier: 
+  ballColor: {r: 0.4237309, g: 0.7075472, b: 0.19691172, a: 1}
+  backgroundColor: {r: 0.23851903, g: 0.47728893, b: 0.754717, a: 1}
+  platformPartColor: {r: 0.7169812, g: 0.6697074, b: 0.2807049, a: 1}
+  goalPlatformColor: {r: 1, g: 0, b: 0, a: 1}
+  platforms:
+  - blockCount: 7
+    deathBlockCount: 1
+  - blockCount: 7
+    deathBlockCount: 1
+  - blockCount: 7
+    deathBlockCount: 2
+  - blockCount: 7
+    deathBlockCount: 3
