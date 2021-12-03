@@ -17,7 +17,5 @@ MonoBehaviour:
   platformPartColor: {r: 0.2951109, g: 0.41509432, b: 0.28782484, a: 1}
   goalPlatformColor: {r: 0.12927197, g: 0.7830189, b: 0.61589736, a: 1}
   platforms:
-  - blockCount: 11
-    deathBlockCount: 0
-  - blockCount: 11
+  - blockCount: 1
     deathBlockCount: 0
